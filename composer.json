@@ -1,0 +1,14 @@
+{
+    "name": "danepowell/box-566",
+    "authors": [
+        {
+            "name": "Dane Powell",
+            "email": "git@danepowell.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "humbug/box": "^3.13"
+    }
+}
